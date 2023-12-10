@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Udrill35
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ... İzliyorum
+- 🌱 I’m currently learning ... Ana sınıfı öğrencisi 
+- 💞️ I’m looking to collaborate on ...Bana yardımcı olursanız sevinirim 
 - 📫 How to reach me 05079218242
 
 <!---
